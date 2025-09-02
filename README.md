@@ -1,0 +1,1 @@
+# Automated_Trash_Classification_Using_MobileNetV2
